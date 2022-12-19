@@ -1,0 +1,1628 @@
+﻿Log file open, 10/26/20 15:28:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Bomberman0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.090514
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: M:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:473][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-20.28.04:478][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-20.28.04:479][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-20.28.04:479][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-20.28.04:479][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.26-20.28.04:482][  0]LogHAL: Display: Platform has ~ 16 GB [17113321472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.26-20.28.04:482][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.26-20.28.04:482][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.26-20.28.04:482][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.26-20.28.04:483][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:483][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Scalability.ini]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.26-20.28.04:484][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [M:/Proyectos/Bomberman0/Saved/Config/Windows/Engine.ini]
+[2020.10.26-20.28.04:484][  0]LogInit: Computer: DESKTOP-M5VDUOO
+[2020.10.26-20.28.04:484][  0]LogInit: User: kevin
+[2020.10.26-20.28.04:484][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.10.26-20.28.04:484][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.26-20.28.04:484][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.26-20.28.04:484][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.26-20.28.04:484][  0]LogMemory: Process Physical Memory: 115.11 MB used, 115.12 MB peak
+[2020.10.26-20.28.04:484][  0]LogMemory: Process Virtual Memory: 104.68 MB used, 104.68 MB peak
+[2020.10.26-20.28.04:484][  0]LogMemory: Physical Memory: 7569.78 MB used,  8750.75 MB free, 16320.54 MB total
+[2020.10.26-20.28.04:484][  0]LogMemory: Virtual Memory: 5187.21 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.10.26-20.28.04:488][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.26-20.28.04:505][  0]LogInit: Using OS detected language (es-MX).
+[2020.10.26-20.28.04:505][  0]LogInit: Using OS detected locale (es-MX).
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2020.10.26-20.28.04:506][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2020.10.26-20.28.04:507][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2020.10.26-20.28.04:507][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.10.26-20.28.04:507][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.10.26-20.28.04:507][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.10.26-20.28.04:549][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.26-20.28.04:590][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.26-20.28.04:590][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.26-20.28.04:760][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-20.28.04:760][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.26-20.28.04:760][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.26-20.28.04:760][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.26-20.28.04:807][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2020.10.26-20.28.04:807][  0]LogD3D11RHI:       8171/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.10.26-20.28.04:811][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.26-20.28.04:811][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.26-20.28.04:811][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.26-20.28.04:820][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.26-20.28.04:820][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.10.26-20.28.04:820][  0]LogWindows: EnumDisplayDevices:
+[2020.10.26-20.28.04:820][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2020.10.26-20.28.04:821][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:821][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:822][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:822][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:822][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:823][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:823][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2020.10.26-20.28.04:824][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.10.26-20.28.04:824][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2020.10.26-20.28.04:824][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.8.3 (internal:27.20.12027.1001, unified:27.20.12027.1001)
+[2020.10.26-20.28.04:824][  0]LogD3D11RHI:      Driver Date: 8-26-2020
+[2020.10.26-20.28.04:824][  0]LogRHI: Texture pool is 5720 MB (70% of 8171 MB)
+[2020.10.26-20.28.04:989][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.10.26-20.28.04:989][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.26-20.28.05:003][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.10.26-20.28.05:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.26-20.28.05:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.26-20.28.05:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.26-20.28.05:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.26-20.28.05:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.26-20.28.05:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.26-20.28.05:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.26-20.28.05:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.26-20.28.05:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.26-20.28.05:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.26-20.28.05:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.26-20.28.05:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.26-20.28.05:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.26-20.28.05:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.26-20.28.05:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.26-20.28.05:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.26-20.28.05:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.26-20.28.05:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.26-20.28.05:577][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.26-20.28.05:581][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.26-20.28.05:606][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../Proyectos/Bomberman0/Intermediate/Shaders/WorkingDirectory/6704/).
+[2020.10.26-20.28.05:606][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kevin/AppData/Local/Temp/UnrealShaderWorkingDir/AC715214450A6EF53C2C3A8050473651/'.
+[2020.10.26-20.28.05:607][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.26-20.28.05:607][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.26-20.28.05:607][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.26-20.28.06:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.26-20.28.06:543][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/kevin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.26-20.28.06:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kevin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.10.26-20.28.06:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Proyectos/Bomberman0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.26-20.28.06:544][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.26-20.28.06:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Proyectos/Bomberman0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-20.28.06:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.26-20.28.06:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.26-20.28.06:557][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.26-20.28.06:557][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.26-20.28.06:558][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kevin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.26-20.28.06:558][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.26-20.28.06:558][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.26-20.28.06:599][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.26-20.28.06:603][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.26-20.28.06:603][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.26-20.28.06:662][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.10.26-20.28.07:028][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.26-20.28.07:221][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.26-20.28.07:221][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.26-20.28.07:221][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.26-20.28.07:221][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.26-20.28.07:221][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.26-20.28.07:236][  0]LogNetVersion: Bomberman0 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1577161323)
+[2020.10.26-20.28.08:630][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.195924 seconds
+[2020.10.26-20.28.08:640][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.10.26-20.28.08:640][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.10.26-20.28.08:640][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.26-20.28.09:118][  0]LogPython: Using Python 2.7.14
+[2020.10.26-20.28.09:967][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.26-20.28.09:971][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.26-20.28.10:717][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.10:717][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.10:718][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.10:719][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.10:720][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.10:938][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.26-20.28.10:964][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-20.28.10:964][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.26-20.28.11:093][  0]LogOcInput: OculusInput pre-init called
+[2020.10.26-20.28.11:101][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.26-20.28.11:102][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.26-20.28.12:456][  0]LogEngine: Initializing Engine...
+[2020.10.26-20.28.12:458][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.26-20.28.12:459][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.26-20.28.12:888][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.26-20.28.12:899][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-20.28.12:913][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-20.28.12:913][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-20.28.12:913][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: Channel Order:
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-20.28.12:942][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-20.28.12:977][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-20.28.12:982][  0]LogInit: FAudioDevice initialized.
+[2020.10.26-20.28.12:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.26-20.28.13:171][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/kevin/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.10.26-20.28.13:176][  0]LogInit: Texture streaming: Enabled
+[2020.10.26-20.28.13:189][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.26-20.28.13:189][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.26-20.28.13:190][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.26-20.28.13:284][  0]LogInit: Transaction tracking system initialized
+[2020.10.26-20.28.13:296][  0]BlueprintLog: New page: Cargar el editor
+[2020.10.26-20.28.13:331][  0]LocalizationService: Localization service is disabled
+[2020.10.26-20.28.13:753][  0]LogFileCache: Scanning file cache for directory 'M:/Proyectos/Bomberman0/Content/' took 0.01s
+[2020.10.26-20.28.13:753][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.26-20.28.13:753][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.26-20.28.14:520][  0]SourceControl: El control de código fuente está desactivado
+[2020.10.26-20.28.14:520][  0]Cmd: MAP LOAD FILE="../../../../Proyectos/Bomberman0/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.26-20.28.14:521][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.26-20.28.14:522][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-20.28.14:522][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-20.28.14:522][  0]MapCheck: New page: Revisión del mapa
+[2020.10.26-20.28.14:522][  0]LightingResults: New page: Diseñar la iluminación
+[2020.10.26-20.28.14:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.26-20.28.16:115][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-20.28.16:231][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.26-20.28.16:289][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.26-20.28.16:289][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.26-20.28.16:289][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2020.10.26-20.28.16:289][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.769
+[2020.10.26-20.28.16:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-20.28.16:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-20.28.16:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-20.28.16:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-20.28.16:970][  0]LogCollectionManager: Loaded 0 collections in 0.013474 seconds
+[2020.10.26-20.28.17:253][  0]LogFileCache: Scanning file cache for directory 'M:/Proyectos/Bomberman0/Saved/Collections/' took 0.00s
+[2020.10.26-20.28.17:253][  0]LogFileCache: Scanning file cache for directory 'M:/Proyectos/Bomberman0/Content/Developers/kevin/Collections/' took 0.00s
+[2020.10.26-20.28.17:253][  0]LogFileCache: Scanning file cache for directory 'M:/Proyectos/Bomberman0/Content/Collections/' took 0.00s
+[2020.10.26-20.28.17:253][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 3052 classes and 742 folders.
+[2020.10.26-20.28.17:316][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-20.28.18:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.26-20.28.18:698][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.10.26-20.28.19:338][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.26-20.28.19:341][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.26-20.28.19:423][  0]LogSlate: Took 0.076218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.26-20.28.19:870][  0]LogRenderer: Reallocating scene render targets to support 676x380 Format 10 NumSamples 1 (Frame:1).
+[2020.10.26-20.28.20:129][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.26-20.28.20:129][  0]LogLoad: (Engine Initialization) Total time: 17.42 seconds
+[2020.10.26-20.28.20:129][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.26-20.28.20:251][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.26-20.28.20:378][  0]LogSlate: Took 0.017175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-20.28.20:772][  5]LogAssetRegistry: Asset discovery search completed in 14.1109 seconds
+[2020.10.26-20.28.20:775][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.10.26-20.30.08:819][938]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.26-20.30.08:841][938]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Bomberman0.Bomb
+[2020.10.26-20.44.29:441][123]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.26-20.44.29:441][123]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.26-20.44.29:503][123]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.26-20.44.33:091][481]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.26-20.44.42:737][538]Candidate modules for hot reload:
+[2020.10.26-20.44.42:737][538]  Bomberman0
+[2020.10.26-20.44.42:737][538]Launching UnrealBuildTool... [M:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Bomberman0,453 Win64 Development -TargetType=Editor -Project="M:/Proyectos/Bomberman0/Bomberman0.uproject" "M:/Proyectos/Bomberman0/Bomberman0.uproject"  -IgnoreJunk]
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: New page: Compilación - 26 oct. 2020 10:48:29
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Invalidating makefile for Bomberman0Editor (directory added)
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Parsing headers for Bomberman0Editor
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   Running UnrealHeaderTool "M:\Proyectos\Bomberman0\Bomberman0.uproject" "M:\Proyectos\Bomberman0\Intermediate\Build\Win64\Bomberman0Editor\Development\Bomberman0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Reflection code generated for Bomberman0Editor in 38.0642159 seconds
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Building Bomberman0Editor...
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (M:\VIsual\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade]
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Bomberman0Editor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: [Upgrade]
+[2020.10.26-20.48.29:139][538]CompilerResultsLog: Building 13 actions with 16 processes...
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [1/13] Healt.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [2/13] Bomberman0GameModeBase.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [3/13] Bomberman0.init.gen.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [4/13] Bomberman0.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [5/13] Bomb.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [6/13] Bomb.gen.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [7/13] Bomberman0GameModeBase.gen.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [8/13] Healt.gen.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [9/13] Bomber1.gen.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [10/13] Bomber1.cpp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [11/13] UE4Editor-Bomberman0-0453.lib
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:      Creando biblioteca M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-0453.lib y objeto M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-0453.exp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [12/13] UE4Editor-Bomberman0-0453.dll
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:      Creando biblioteca M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-0453.suppressed.lib y objeto M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-0453.suppressed.exp
+[2020.10.26-20.48.29:139][538]CompilerResultsLog:   [13/13] Bomberman0Editor.target
+[2020.10.26-20.48.29:140][538]CompilerResultsLog: Total time in Parallel executor: 182.75 seconds
+[2020.10.26-20.48.29:140][538]CompilerResultsLog: Total execution time: 226.17 seconds
+[2020.10.26-20.48.29:140][538]LogMainFrame: MainFrame: Module compiling took 226.443 seconds
+[2020.10.26-20.48.29:182][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.10.26-20.48.29:204][538]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 3054 classes and 745 folders.
+[2020.10.26-20.48.29:204][538]Display: HotReload took 226.6s.
+[2020.10.26-20.48.29:213][538]Warning: HotReload operation took 226.6s.
+[2020.10.26-20.48.29:713][538]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.26-20.48.29:730][538]LogHotReload: New module detected: UE4Editor-Bomberman0-0453.dll
+[2020.10.26-20.48.29:901][539]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.26-20.48.29:976][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.10.26-20.48.30:006][539]LogClass: Could not find existing class Healt in package /Script/Bomberman0 for HotReload, assuming new class
+[2020.10.26-20.48.30:015][539]LogContentBrowser: Native class hierarchy updated for 'Bomberman0' in 0.0009 seconds. Added 4 classes and 6 folders.
+[2020.10.26-20.48.30:024][539]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2020.10.26-20.48.30:635][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.26-20.48.30:657][539]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 3055 classes and 747 folders.
+[2020.10.26-20.48.30:670][539]Display: HotReload took  0.8s.
+[2020.10.26-21.01.38:206][251]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Bomberman0.Bomberman0GameModeBase
+[2020.10.26-21.01.54:414][751]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Bomberman0.Bomber1
+[2020.10.26-21.01.54:629][751]LogVSAccessor: Warning: Couldn't goto line number '1' in 'M:/Proyectos/Bomberman0/Source/Bomberman0/Ch/Bomber1.h'
+[2020.10.26-21.05.35:524][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluprintsH/Bomber_BP.Bomber_BP
+[2020.10.26-21.05.36:359][894]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.10.26-21.05.39:519][895]LogSlate: Took 0.026102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.26-21.05.43:870][319]LogRenderer: Reallocating scene render targets to support 800x404 Format 10 NumSamples 1 (Frame:1).
+[2020.10.26-21.08.31:445][278]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.26-21.10.15:140][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.10.26-21.10.15:142][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.070
+[2020.10.26-21.10.15:142][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluprintsH/Bomber_BP] ([1] browsable assets)...
+[2020.10.26-21.10.15:172][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluprintsH/Bomber_BP.Bomber_BP]
+[2020.10.26-21.10.15:172][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluprintsH/Bomber_BP]
+[2020.10.26-21.10.15:172][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/Bomber_BP" FILE="../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.10.26-21.10.15:504][302]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Bomber_BP_Auto18E8897AF4F595CE46375A2AC81E13BFC.tmp' to '../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP_Auto1.uasset'
+[2020.10.26-21.10.15:549][302]LogFileHelpers: Auto-saving content packages took 0.407
+[2020.10.26-21.18.48:170][965]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-21.18.48:201][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.18.48:201][965]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.26-21.18.48:208][965]LogPlayLevel: [PlayLevel] Compiling Bomber_BP before play...
+[2020.10.26-21.18.48:764][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.10.26-21.18.48:764][965]LogPlayLevel: PlayLevel: Blueprint regeneration took 563 ms (1 blueprints)
+[2020.10.26-21.18.48:764][965]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 11:18:48)
+[2020.10.26-21.18.48:808][965]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.26-21.18.48:822][965]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.26-21.18.48:823][965]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.18.48:828][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005180s)
+[2020.10.26-21.18.48:836][965]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-21.18.48:837][965]LogPlayLevel: PIE: World Init took: (0.008852s)
+[2020.10.26-21.18.48:837][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014317s)
+[2020.10.26-21.18.48:890][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.18.48:890][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.18.48:890][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.18.48:891][965]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.18.48:891][965]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: Channel Order:
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.18.48:910][965]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.18.48:934][965]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.18.48:937][965]LogInit: FAudioDevice initialized.
+[2020.10.26-21.18.48:994][965]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-21.18.49:011][965]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-16.18.49
+[2020.10.26-21.18.49:021][965]LogWorld: Bringing up level for play took: 0.011901
+[2020.10.26-21.18.49:021][965]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.10.26-21.18.49:090][965]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.10.26-21.18.49:091][965]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.18.49:091][965]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.18.49:091][965]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.18.49:140][965]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.18.49:140][965]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.01
+[2020.10.26-21.18.49:141][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.18.56:833][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.18.56:851][809]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-21.18.56:871][809]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-21.18.56:871][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.18.56:871][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.18.56:871][809]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.18.56:872][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.18.56:888][809]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.18.56:889][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.18.56:897][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.18.56:897][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.18.56:904][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.18.56:984][809]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.18.56:988][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.18.57:055][809]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.10.26-21.18.57:090][810]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.10.26-21.21.56:223][510]LogDestructible: Warning: MainMesh Tris: 48
+[2020.10.26-21.21.56:383][510]LogApexDestructibleAssetImport: Warning: Using default materials for material slot
+[2020.10.26-21.21.56:395][510]LogApexDestructibleAssetImport: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2020.10.26-21.21.56:723][510]LogSkeletalMesh: Section 0: 83 vertices, 1 active bones
+[2020.10.26-21.21.56:732][510]LogSkeletalMesh: Section 0: Material=0, 48 triangles
+[2020.10.26-21.21.56:769][510]LogAssetEditorSubsystem: Opening Asset editor for DestructibleMesh /Game/Try/Cube_DM.Cube_DM
+[2020.10.26-21.21.57:042][510]LogRenderer: Reallocating scene render targets to support 844x608 Format 10 NumSamples 1 (Frame:1).
+[2020.10.26-21.22.01:643][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Try/Cube_DM" FILE="../../../../Proyectos/Bomberman0/Content/Try/Cube_DM.uasset" SILENT=true
+[2020.10.26-21.22.01:667][884]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Cube_DM44D6305447BBA3E8685374AA75E68350.tmp' to '../../../../Proyectos/Bomberman0/Content/Try/Cube_DM.uasset'
+[2020.10.26-21.22.01:722][884]AssetCheck: New page: Asset Save: Cube_DM
+[2020.10.26-21.22.01:723][884]LogContentValidation: Display: Validating DestructibleMesh /Game/Try/Cube_DM.Cube_DM
+[2020.10.26-21.22.03:211][ 56]LogSlate: Window 'Cube_DM' being destroyed
+[2020.10.26-21.22.03:222][ 56]LogSlate: Window 'Cube_DM' being destroyed
+[2020.10.26-21.22.03:260][ 56]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.22.03:260][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.22.20:951][919]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-21.22.20:977][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.22.20:977][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.22.20:977][919]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 11:22:20)
+[2020.10.26-21.22.20:977][919]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.22.20:983][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005075s)
+[2020.10.26-21.22.20:983][919]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-21.22.20:985][919]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2020.10.26-21.22.20:985][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006475s)
+[2020.10.26-21.22.21:103][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.22.21:105][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.22.21:105][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.22.21:106][919]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.22.21:106][919]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: Channel Order:
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.22.21:124][919]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.22.21:148][919]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.22.21:150][919]LogInit: FAudioDevice initialized.
+[2020.10.26-21.22.21:158][919]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-21.22.21:229][919]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-16.22.21
+[2020.10.26-21.22.21:229][919]LogWorld: Bringing up level for play took: 0.069921
+[2020.10.26-21.22.21:229][919]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.26-21.22.21:232][919]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.22.21:232][919]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.22.21:232][919]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.22.21:233][919]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.22.21:233][919]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.103
+[2020.10.26-21.22.21:234][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.22.25:153][382]LogBlueprintUserMessages: [Bomber_BP_C_0] 1.0
+[2020.10.26-21.22.29:827][939]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-21.22.33:025][321]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-21.22.37:007][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.22.37:021][796]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-21.22.37:041][796]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-21.22.37:042][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.22.37:042][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.22.37:042][796]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.22.37:042][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.22.37:042][796]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.22.37:043][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.22.37:049][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.22.37:049][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.22.37:056][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.22.37:121][796]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.22.37:126][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.22.37:132][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.10.26-21.22.37:160][797]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.26-21.22.40:299][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluprintsH/MyBomb.MyBomb
+[2020.10.26-21.23.09:258][177]BlueprintLog: New page: Compilar MyBomb
+[2020.10.26-21.23.09:670][177]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.10.26-21.23.10:151][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/MyBomb" FILE="../../../../Proyectos/Bomberman0/Content/BluprintsH/MyBomb.uasset" SILENT=true
+[2020.10.26-21.23.10:186][220]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/MyBombCC7F6A2245E4C384E83F4E8C230A658B.tmp' to '../../../../Proyectos/Bomberman0/Content/BluprintsH/MyBomb.uasset'
+[2020.10.26-21.23.10:265][220]AssetCheck: New page: Asset Save: MyBomb
+[2020.10.26-21.23.10:265][220]LogContentValidation: Display: Validating Blueprint /Game/BluprintsH/MyBomb.MyBomb
+[2020.10.26-21.23.12:544][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-21.23.12:572][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.12:572][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.23.12:572][455]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 11:23:12)
+[2020.10.26-21.23.12:572][455]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.23.12:577][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004883s)
+[2020.10.26-21.23.12:578][455]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-21.23.12:578][455]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2020.10.26-21.23.12:578][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006142s)
+[2020.10.26-21.23.12:630][455]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.23.12:632][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.23.12:632][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.23.12:633][455]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.23.12:633][455]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: Channel Order:
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.23.12:652][455]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.23.12:676][455]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.23.12:678][455]LogInit: FAudioDevice initialized.
+[2020.10.26-21.23.12:689][455]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-21.23.12:692][455]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-16.23.12
+[2020.10.26-21.23.12:692][455]LogWorld: Bringing up level for play took: 0.002245
+[2020.10.26-21.23.12:692][455]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.10.26-21.23.12:694][455]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.23.12:695][455]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.23.12:695][455]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.23.12:697][455]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.23.12:697][455]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.433
+[2020.10.26-21.23.12:697][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.15:477][784]LogBlueprintUserMessages: [Bomber_BP_C_0] 1.0
+[2020.10.26-21.23.20:978][444]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.20:992][444]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-21.23.21:022][444]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-21.23.21:022][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.21:022][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.23.21:022][444]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.23.21:022][444]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.21:023][444]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.23.21:023][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.23.21:034][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.23.21:034][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.21:041][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.23.21:090][444]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.21:095][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.23.21:101][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.10.26-21.23.21:128][445]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.26-21.23.30:780][511]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM9)
+[2020.10.26-21.23.31:317][568]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM8)
+[2020.10.26-21.23.33:040][766]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM10)
+[2020.10.26-21.23.38:153][264]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-21.23.38:191][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.38:191][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-21.23.38:191][264]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 11:23:38)
+[2020.10.26-21.23.38:191][264]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.23.38:196][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004873s)
+[2020.10.26-21.23.38:197][264]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-21.23.38:197][264]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2020.10.26-21.23.38:197][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006171s)
+[2020.10.26-21.23.38:250][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-21.23.38:251][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-21.23.38:251][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-21.23.38:252][264]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-21.23.38:252][264]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: Channel Order:
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-21.23.38:270][264]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-21.23.38:292][264]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-21.23.38:294][264]LogInit: FAudioDevice initialized.
+[2020.10.26-21.23.38:302][264]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-21.23.38:305][264]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-16.23.38
+[2020.10.26-21.23.38:305][264]LogWorld: Bringing up level for play took: 0.002277
+[2020.10.26-21.23.38:306][264]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.10.26-21.23.38:308][264]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.23.38:308][264]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-21.23.38:308][264]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.23.38:309][264]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-21.23.38:309][264]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.821
+[2020.10.26-21.23.38:309][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.41:581][651]LogBlueprintUserMessages: [Bomber_BP_C_0] 1.0
+[2020.10.26-21.23.43:923][932]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-21.23.46:565][249]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-21.23.56:296][416]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.56:301][416]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-21.23.56:321][416]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-21.23.56:321][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.56:322][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.23.56:322][416]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-21.23.56:322][416]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.56:322][416]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-21.23.56:323][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.23.56:331][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-21.23.56:332][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-21.23.56:340][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-21.23.56:389][416]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-21.23.56:393][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-21.23.56:399][416]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.10.26-21.23.56:423][417]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.10.26-21.24.52:464][812]LogEditorViewport: Clicking on Actor (LMB): MyBomb_C (MyBomb)
+[2020.10.26-21.25.01:421][859]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM9)
+[2020.10.26-21.25.02:124][935]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM8)
+[2020.10.26-21.25.04:374][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.26-21.25.05:446][314]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM8)
+[2020.10.26-21.25.28:379][858]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.26-21.26.31:920][726]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.26-21.26.36:885][277]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM9)
+[2020.10.26-21.29.45:372][513]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (Cube_DM9)
+[2020.10.26-21.30.05:395][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.10.26-21.30.06:852][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluprintsH/Bomber_BP1.Bomber_BP1
+[2020.10.26-21.31.13:764][824]BlueprintLog: New page: Compilar Bomber_BP1
+[2020.10.26-21.31.13:767][824]LogBlueprint: Warning: [Compiler Bomber_BP1] Proyectar a Character  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.10.26-21.31.14:205][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.10.26-21.32.06:142][977]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.10.26-21.32.06:553][977]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Minimal_Default_Auto221DBFE8644340E5A194E0A8C07043704.tmp' to '../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2020.10.26-21.32.06:560][977]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.474
+[2020.10.26-21.32.06:560][977]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.474
+[2020.10.26-21.32.06:560][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluprintsH/Bomber_BP1] ([1] browsable assets)...
+[2020.10.26-21.32.06:587][977]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluprintsH/Bomber_BP1.Bomber_BP1]
+[2020.10.26-21.32.06:587][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluprintsH/Bomber_BP1]
+[2020.10.26-21.32.06:587][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/Bomber_BP1" FILE="../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.10.26-21.32.06:617][977]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Bomber_BP1_Auto29F535314479D93B058438E9D5C5D270D.tmp' to '../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP1_Auto2.uasset'
+[2020.10.26-21.32.06:618][977]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.10.26-21.45.19:668][479]LogSlate: Window 'Bomber_BP1' being destroyed
+[2020.10.26-22.04.49:191][ 66]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.04.49:191][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.04.51:411][254]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.26-22.04.51:411][254]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.04.51:411][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.04.54:754][579]Cmd: DELETE
+[2020.10.26-22.04.54:754][579]Cmd: ACTOR DELETE
+[2020.10.26-22.04.54:969][579]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.55:024][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.10.26-22.04.55:029][579]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2020.10.26-22.04.56:284][722]Cmd: DELETE
+[2020.10.26-22.04.56:284][722]Cmd: ACTOR DELETE
+[2020.10.26-22.04.56:286][722]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.56:334][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.10.26-22.04.56:336][722]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.10.26-22.04.56:782][771]Cmd: DELETE
+[2020.10.26-22.04.56:782][771]Cmd: ACTOR DELETE
+[2020.10.26-22.04.56:784][771]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.56:829][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.10.26-22.04.56:830][771]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.10.26-22.04.57:409][837]Cmd: DELETE
+[2020.10.26-22.04.57:409][837]Cmd: ACTOR DELETE
+[2020.10.26-22.04.57:411][837]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.57:460][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.26-22.04.57:460][837]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.10.26-22.04.57:934][893]Cmd: DELETE
+[2020.10.26-22.04.57:934][893]Cmd: ACTOR DELETE
+[2020.10.26-22.04.57:982][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.26-22.04.57:982][893]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2020.10.26-22.04.58:730][979]Cmd: DELETE
+[2020.10.26-22.04.58:730][979]Cmd: ACTOR DELETE
+[2020.10.26-22.04.58:733][979]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.58:781][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.10.26-22.04.58:782][979]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.10.26-22.04.59:420][ 50]Cmd: DELETE
+[2020.10.26-22.04.59:421][ 50]Cmd: ACTOR DELETE
+[2020.10.26-22.04.59:422][ 50]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.04.59:468][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.10.26-22.04.59:469][ 50]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.10.26-22.05.00:049][116]Cmd: DELETE
+[2020.10.26-22.05.00:049][116]Cmd: ACTOR DELETE
+[2020.10.26-22.05.00:051][116]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.05.00:101][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.26-22.05.00:102][116]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.10.26-22.05.00:714][186]Cmd: DELETE
+[2020.10.26-22.05.00:714][186]Cmd: ACTOR DELETE
+[2020.10.26-22.05.00:716][186]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.05.00:761][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.10.26-22.05.00:762][186]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.10.26-22.05.01:525][274]Cmd: DELETE
+[2020.10.26-22.05.01:525][274]Cmd: ACTOR DELETE
+[2020.10.26-22.05.01:526][274]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.05.01:574][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.26-22.05.01:575][274]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.10.26-22.05.02:656][400]Cmd: DELETE
+[2020.10.26-22.05.02:656][400]Cmd: ACTOR DELETE
+[2020.10.26-22.05.02:658][400]LogEditorActor: Deleted Actor: DestructibleActor
+[2020.10.26-22.05.02:711][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.26-22.05.02:712][400]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.10.26-22.05.06:093][759]Candidate modules for hot reload:
+[2020.10.26-22.05.06:093][759]  Bomberman0
+[2020.10.26-22.05.06:093][759]Launching UnrealBuildTool... [M:/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Bomberman0,1191 Win64 Development -TargetType=Editor -Project="M:/Proyectos/Bomberman0/Bomberman0.uproject" "M:/Proyectos/Bomberman0/Bomberman0.uproject"  -IgnoreJunk]
+[2020.10.26-22.05.06:096][759]Warning: Starting HotReload took  0.1s.
+[2020.10.26-22.05.28:546][130]CompilerResultsLog: New page: Compilación - 26 oct. 2020 12:05:28
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: Parsing headers for Bomberman0Editor
+[2020.10.26-22.05.28:553][130]CompilerResultsLog:   Running UnrealHeaderTool "M:\Proyectos\Bomberman0\Bomberman0.uproject" "M:\Proyectos\Bomberman0\Intermediate\Build\Win64\Bomberman0Editor\Development\Bomberman0Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: Reflection code generated for Bomberman0Editor in 9.5402479 seconds
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: Building Bomberman0Editor...
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (M:\VIsual\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade]
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade] Using backward-compatible build settings. The latest version of UE4 sets the following values by default, which may require code changes:
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade]     bLegacyPublicIncludePaths = false                 => Omits subfolders from public include paths to reduce compiler command line length. (Previously: true).
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade]     ShadowVariableWarningLevel = WarningLevel.Error   => Treats shadowed variable warnings as errors. (Previously: WarningLevel.Warning).
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade]     PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs   => Set in build.cs files to enables IWYU-style PCH model. See https://docs.unrealengine.com/en-US/Programming/BuildTools/UnrealBuildTool/IWYU/index.html. (Previously: PCHUsageMode.UseSharedPCHs).
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade] Suppress this message by setting 'DefaultBuildSettings = BuildSettingsVersion.V2;' in Bomberman0Editor.Target.cs, and explicitly overriding settings that differ from the new defaults.
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: [Upgrade]
+[2020.10.26-22.05.28:553][130]CompilerResultsLog: Building 8 actions with 16 processes...
+[2020.10.26-22.05.28:553][130]CompilerResultsLog:   [1/8] Bomberman0.init.gen.cpp
+[2020.10.26-22.05.28:553][130]CompilerResultsLog:   [2/8] Bomber1.cpp
+[2020.10.26-22.05.28:553][130]CompilerResultsLog:   [3/8] Healt.gen.cpp
+[2020.10.26-22.05.28:553][130]CompilerResultsLog:   [4/8] Healt.cpp
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:   [5/8] Bomber1.gen.cpp
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:   [6/8] UE4Editor-Bomberman0-1191.lib
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:      Creando biblioteca M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-1191.lib y objeto M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-1191.exp
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:   [7/8] UE4Editor-Bomberman0-1191.dll
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:      Creando biblioteca M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-1191.suppressed.lib y objeto M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\UE4Editor-Bomberman0-1191.suppressed.exp
+[2020.10.26-22.05.28:554][130]CompilerResultsLog:   [8/8] Bomberman0Editor.target
+[2020.10.26-22.05.28:554][130]CompilerResultsLog: Total time in Parallel executor: 10.73 seconds
+[2020.10.26-22.05.28:554][130]CompilerResultsLog: Total execution time: 22.08 seconds
+[2020.10.26-22.05.28:554][130]LogMainFrame: MainFrame: Module compiling took 22.472 seconds
+[2020.10.26-22.05.28:604][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.10.26-22.05.28:670][130]LogClass: Could not find existing class Bomber1 in package /Script/Bomberman0 for HotReload, assuming new class
+[2020.10.26-22.05.28:670][130]LogClass: Function Spawn is new.
+[2020.10.26-22.05.28:674][130]LogClass: Could not find existing class Healt in package /Script/Bomberman0 for HotReload, assuming new class
+[2020.10.26-22.05.28:674][130]LogClass: Function TakeDamage is new.
+[2020.10.26-22.05.28:689][130]LogHotReload: Re-instancing Bomber1 after hot-reload.
+[2020.10.26-22.05.29:991][130]LogHotReload: Re-instancing Healt after hot-reload.
+[2020.10.26-22.05.30:344][130]LogContentBrowser: Native class hierarchy updated for 'Bomberman0' in 0.0012 seconds. Added 4 classes and 6 folders.
+[2020.10.26-22.05.30:362][130]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.10.26-22.05.30:512][130]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.10.26-22.05.30:556][130]LogContentBrowser: Native class hierarchy populated in 0.0170 seconds. Added 3055 classes and 747 folders.
+[2020.10.26-22.05.30:556][130]Display: HotReload took 24.5s.
+[2020.10.26-22.05.32:726][149]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.10.26-22.05.33:117][149]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Minimal_Default_Auto354FDADB7444E91F0DF2118B487BCE421.tmp' to '../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2020.10.26-22.05.33:123][149]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.550
+[2020.10.26-22.05.33:123][149]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.550
+[2020.10.26-22.05.33:123][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluprintsH/Bomber_BP1] ([1] browsable assets)...
+[2020.10.26-22.05.33:164][149]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluprintsH/Bomber_BP1.Bomber_BP1]
+[2020.10.26-22.05.33:164][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluprintsH/Bomber_BP1]
+[2020.10.26-22.05.33:164][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/Bomber_BP1" FILE="../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.10.26-22.05.33:202][149]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Bomber_BP1_Auto39BBB4C954CEF42EEC1BDB8883AFFCF9D.tmp' to '../../../../Proyectos/Bomberman0/Saved/Autosaves/Game/BluprintsH/Bomber_BP1_Auto3.uasset'
+[2020.10.26-22.05.33:202][149]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.10.26-22.07.12:419][ 17]BlueprintLog: New page: Compilar Bomber_BP
+[2020.10.26-22.07.12:943][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.10.26-22.07.15:211][245]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.07.15:241][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.07.15:241][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.07.15:242][245]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:07:15)
+[2020.10.26-22.07.15:242][245]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.07.15:247][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005396s)
+[2020.10.26-22.07.15:248][245]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.07.15:249][245]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.10.26-22.07.15:249][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007159s)
+[2020.10.26-22.07.15:296][245]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.07.15:298][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.07.15:298][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.07.15:298][245]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.07.15:299][245]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.07.15:318][245]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.07.15:344][245]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.07.15:348][245]LogInit: FAudioDevice initialized.
+[2020.10.26-22.07.15:364][245]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.07.15:367][245]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.07.15
+[2020.10.26-22.07.15:367][245]LogWorld: Bringing up level for play took: 0.001568
+[2020.10.26-22.07.15:367][245]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.26-22.07.15:369][245]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.07.15:369][245]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.07.15:369][245]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.07.15:372][245]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.07.15:372][245]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.242
+[2020.10.26-22.07.15:372][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.07.16:889][417]LogBlueprintUserMessages: [Bomber_BP_C_0] Bomber_BP_C_0.Healt
+[2020.10.26-22.07.19:238][699]LogBlueprintUserMessages: [Bomber_BP_C_0] Bomber_BP_C_0.Healt
+[2020.10.26-22.07.20:680][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.07.20:688][872]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.07.20:708][872]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.07.20:732][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.07.20:733][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.07.20:733][872]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.07.20:733][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.07.20:733][872]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.07.20:733][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.07.20:745][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.07.20:745][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.07.20:751][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.07.20:793][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.07.20:798][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.07.20:805][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.10.26-22.07.20:832][873]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.26-22.07.57:867][ 15]BlueprintLog: New page: Compilar Bomber_BP
+[2020.10.26-22.07.58:278][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.10.26-22.08.00:549][250]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.08.00:578][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.00:578][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.08.00:578][250]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:08:00)
+[2020.10.26-22.08.00:579][250]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.08.00:583][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004392s)
+[2020.10.26-22.08.00:584][250]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.08.00:584][250]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2020.10.26-22.08.00:585][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005933s)
+[2020.10.26-22.08.00:631][250]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.08.00:632][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.08.00:632][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.08.00:633][250]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.08.00:633][250]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.08.00:651][250]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.08.00:673][250]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.08.00:676][250]LogInit: FAudioDevice initialized.
+[2020.10.26-22.08.00:686][250]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.08.00:688][250]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.08.00
+[2020.10.26-22.08.00:689][250]LogWorld: Bringing up level for play took: 0.001552
+[2020.10.26-22.08.00:689][250]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.10.26-22.08.00:692][250]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.08.00:692][250]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.08.00:692][250]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.08.00:694][250]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.08.00:695][250]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.436
+[2020.10.26-22.08.00:695][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.01:590][351]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-22.08.02:373][445]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-22.08.02:823][499]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-22.08.03:331][560]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-22.08.03:758][611]LogBlueprintUserMessages: [Bomber_BP_C_0] 0.0
+[2020.10.26-22.08.04:603][710]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.04:618][710]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.08.04:638][710]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.08.04:638][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.04:639][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.08.04:639][710]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.08.04:639][710]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.04:639][710]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.08.04:639][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.08.04:651][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.08.04:651][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.04:657][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.08.04:700][710]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.04:704][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.08.04:710][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.10.26-22.08.04:742][711]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.10.26-22.08.43:343][278]BlueprintLog: New page: Compilar Bomber_BP
+[2020.10.26-22.08.43:741][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.10.26-22.08.45:482][455]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.08.45:512][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.45:512][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.08.45:512][455]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:08:45)
+[2020.10.26-22.08.45:512][455]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.08.45:516][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004143s)
+[2020.10.26-22.08.45:518][455]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.08.45:518][455]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2020.10.26-22.08.45:518][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005887s)
+[2020.10.26-22.08.45:571][455]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.10.26-22.08.45:571][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.08.45:572][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.08.45:572][455]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.08.45:572][455]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.08.45:591][455]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.08.45:614][455]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.08.45:616][455]LogInit: FAudioDevice initialized.
+[2020.10.26-22.08.45:629][455]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.08.45:631][455]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.08.45
+[2020.10.26-22.08.45:632][455]LogWorld: Bringing up level for play took: 0.001324
+[2020.10.26-22.08.45:632][455]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.26-22.08.45:634][455]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.08.45:634][455]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.08.45:634][455]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.08.45:635][455]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.08.45:635][455]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.505
+[2020.10.26-22.08.45:636][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.46:495][548]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.08.47:053][615]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.08.48:054][735]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.08.51:963][204]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.08.55:796][663]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.08.56:821][786]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.56:838][786]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.08.56:859][786]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.08.56:859][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.56:859][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.08.56:859][786]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.08.56:859][786]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.56:859][786]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.08.56:860][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.08.56:879][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.08.56:879][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.08.56:885][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.08.56:932][786]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.08.56:937][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.08.56:942][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.10.26-22.08.56:968][787]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.26-22.10.01:450][244]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.10.01:478][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.01:478][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.10.01:478][244]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:10:01)
+[2020.10.26-22.10.01:478][244]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.10.01:483][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004805s)
+[2020.10.26-22.10.01:484][244]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.10.01:484][244]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2020.10.26-22.10.01:484][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006321s)
+[2020.10.26-22.10.01:570][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.10.01:574][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.10.01:574][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.10.01:575][244]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.10.01:575][244]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.10.01:593][244]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.10.01:593][244]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.10.01:593][244]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.10.01:593][244]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.10.01:593][244]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.10.01:594][244]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.10.01:594][244]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.10.01:594][244]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.10.01:594][244]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.10.01:618][244]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.10.01:620][244]LogInit: FAudioDevice initialized.
+[2020.10.26-22.10.01:629][244]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.10.01:631][244]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.10.01
+[2020.10.26-22.10.01:631][244]LogWorld: Bringing up level for play took: 0.001456
+[2020.10.26-22.10.01:631][244]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.26-22.10.01:633][244]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.10.01:634][244]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.10.01:634][244]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.10.01:699][244]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.10.01:699][244]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.569
+[2020.10.26-22.10.01:699][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.04:078][525]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.05:895][743]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.07:261][907]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.08:071][  4]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.08:954][110]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.09:354][158]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.09:671][196]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.09:871][220]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.12:738][564]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.12:739][564]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.10.12:759][564]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.10.12:759][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.12:759][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.10.12:759][564]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.10.12:759][564]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.12:760][564]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.10.12:761][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.10.12:768][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.10.12:768][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.12:774][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.10.12:820][564]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.12:825][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.10.12:831][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.10.26-22.10.12:856][565]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.26-22.10.16:834][ 18]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2020.10.26-22.10.24:718][915]LogEditorViewport: Clicking on Actor (LMB): MyBomb_C (MyBomb)
+[2020.10.26-22.10.29:916][419]LogActorFactory: Actor Factory created Sphere
+[2020.10.26-22.10.30:929][504]LogActorFactory: Actor Factory created Sphere
+[2020.10.26-22.10.34:319][846]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.10.34:349][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.34:349][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.10.34:349][846]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:10:34)
+[2020.10.26-22.10.34:349][846]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.10.34:355][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005688s)
+[2020.10.26-22.10.34:356][846]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.10.34:356][846]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.10.26-22.10.34:356][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006983s)
+[2020.10.26-22.10.34:404][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.10.34:409][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.10.34:409][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.10.34:410][846]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.10.34:410][846]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.10.34:427][846]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.10.34:450][846]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.10.34:452][846]LogInit: FAudioDevice initialized.
+[2020.10.26-22.10.34:461][846]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.10.34:464][846]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.10.34
+[2020.10.26-22.10.34:464][846]LogWorld: Bringing up level for play took: 0.001596
+[2020.10.26-22.10.34:464][846]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.10.26-22.10.34:466][846]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.10.34:466][846]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.10.34:466][846]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.10.34:468][846]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.10.34:468][846]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.662
+[2020.10.26-22.10.34:468][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.35:257][933]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.36:766][112]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.38:098][272]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.38:756][351]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.40:582][570]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.41:140][637]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.10.41:624][695]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.41:639][695]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.10.41:669][695]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.10.41:669][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.41:669][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.10.41:669][695]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.10.41:669][695]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.41:669][695]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.10.41:670][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.10.41:682][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.10.41:682][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.10.41:689][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.10.41:734][695]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.10.41:739][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.10.41:744][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.10.26-22.10.41:769][696]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.26-22.11.01:322][ 15]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2020.10.26-22.11.57:955][ 20]BlueprintLog: New page: Compilar Bomber_BP
+[2020.10.26-22.11.58:373][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.10.26-22.11.59:401][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/Bomber_BP" FILE="../../../../Proyectos/Bomberman0/Content/BluprintsH/Bomber_BP.uasset" SILENT=true
+[2020.10.26-22.11.59:448][120]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Bomber_BPEC94FC354FC8A96C5D2FBE879594FE74.tmp' to '../../../../Proyectos/Bomberman0/Content/BluprintsH/Bomber_BP.uasset'
+[2020.10.26-22.11.59:542][120]AssetCheck: New page: Asset Save: Bomber_BP
+[2020.10.26-22.11.59:542][120]LogContentValidation: Display: Validating Blueprint /Game/BluprintsH/Bomber_BP.Bomber_BP
+[2020.10.26-22.12.01:861][353]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.12.01:889][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.01:889][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.12.01:890][353]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:12:01)
+[2020.10.26-22.12.01:890][353]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.12.01:895][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005238s)
+[2020.10.26-22.12.01:896][353]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.12.01:896][353]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.10.26-22.12.01:896][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006478s)
+[2020.10.26-22.12.01:945][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.10.26-22.12.01:946][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.12.01:947][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.12.01:947][353]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.12.01:947][353]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.12.01:967][353]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.12.01:991][353]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.12.01:993][353]LogInit: FAudioDevice initialized.
+[2020.10.26-22.12.02:000][353]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.12.02:002][353]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.12.02
+[2020.10.26-22.12.02:002][353]LogWorld: Bringing up level for play took: 0.001379
+[2020.10.26-22.12.02:003][353]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.26-22.12.02:005][353]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.12.02:005][353]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.12.02:005][353]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.12.02:006][353]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.02:006][353]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.12.02:006][353]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.876
+[2020.10.26-22.12.02:007][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.04:975][703]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.05:975][823]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.06:975][943]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.07:975][ 63]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.09:041][191]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.09:976][303]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.10:975][423]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.11:268][458]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.11:977][543]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.12:977][663]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.13:119][680]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.12.13:128][680]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.12.13:148][680]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.12.13:148][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.13:149][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.12.13:149][680]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.12.13:149][680]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.12.13:149][680]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.12.13:150][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.12.13:157][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.12.13:157][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.13:164][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.12.13:206][680]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.12.13:210][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.12.13:216][680]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.10.26-22.12.13:242][681]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.26-22.12.44:496][525]LogEditorViewport: Clicking on Actor (LMB): PainCausingVolume (PainCausingVolume)
+[2020.10.26-22.12.46:279][714]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.26-22.12.51:099][209]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.26-22.12.51:126][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.51:126][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.26-22.12.51:126][209]PIE: New page: Sesión PIE (reproducción en el editor): Minimal_Default (26 oct. 2020 12:12:51)
+[2020.10.26-22.12.51:126][209]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.12.51:131][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004929s)
+[2020.10.26-22.12.51:132][209]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.26-22.12.51:132][209]LogPlayLevel: PIE: World Init took: (0.001112s)
+[2020.10.26-22.12.51:132][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006182s)
+[2020.10.26-22.12.51:185][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.26-22.12.51:189][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.26-22.12.51:189][209]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.26-22.12.51:189][209]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Name: Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Is Default: Yes
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Sample Rate: 48000
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Channel Count Used: 2
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Device Channel Count: 2
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: Channel Order:
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.26-22.12.51:209][209]LogAudioMixer: Display: 1: FrontRight
+[2020.10.26-22.12.51:231][209]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.10.26-22.12.51:233][209]LogInit: FAudioDevice initialized.
+[2020.10.26-22.12.51:242][209]LogLoad: Game class is 'GameMode_BP_C'
+[2020.10.26-22.12.51:244][209]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.10.26-17.12.51
+[2020.10.26-22.12.51:244][209]LogWorld: Bringing up level for play took: 0.001421
+[2020.10.26-22.12.51:244][209]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.26-22.12.51:246][209]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.12.51:246][209]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.10.26-22.12.51:246][209]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.12.51:248][209]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.51:248][209]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.10.26-22.12.51:248][209]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.118
+[2020.10.26-22.12.51:248][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.12.54:246][563]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.55:247][683]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.56:248][803]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.57:249][923]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.58:249][ 43]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.12.59:249][163]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.01:407][422]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.02:601][525]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.03:614][528]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.04:624][531]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.05:632][534]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.06:640][537]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.07:647][540]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.08:651][543]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.09:659][546]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.10:662][549]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.11:669][552]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.12:677][555]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.13:684][558]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.14:689][561]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.15:699][564]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.16:708][567]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.17:715][570]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.18:722][573]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.19:728][576]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.20:736][579]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.21:744][582]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.22:416][584]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.23:420][587]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.24:436][590]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.25:446][593]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.26:457][596]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.27:466][599]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.28:474][602]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.29:481][605]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.30:491][608]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.31:500][611]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.32:508][614]LogBlueprintUserMessages: [Bomber_BP_C_0] 3.0
+[2020.10.26-22.13.33:455][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.10.26-22.13.35:773][683]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.10.26-22.13.35:786][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluprintsH/Bomber_BP1" FILE="../../../../Proyectos/Bomberman0/Content/BluprintsH/Bomber_BP1.uasset" SILENT=true
+[2020.10.26-22.13.35:810][683]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Bomber_BP124981B424B875AF74F4DF18E65CE7365.tmp' to '../../../../Proyectos/Bomberman0/Content/BluprintsH/Bomber_BP1.uasset'
+[2020.10.26-22.13.35:876][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.26-22.13.36:293][683]LogSavePackage: Moving '../../../../Proyectos/Bomberman0/Saved/Minimal_Default775479954E9098F75369C1A9EC188E0A.tmp' to '../../../../Proyectos/Bomberman0/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.10.26-22.13.36:347][683]LogFileHelpers: Saving map 'Minimal_Default' took 0.515
+[2020.10.26-22.13.36:547][683]LogSlate: Window 'Bomberman0 - Unreal Editor' being destroyed
+[2020.10.26-22.13.36:705][683]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.26-22.13.36:705][683]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.36:706][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.13.36:906][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.13.36:907][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.13.36:907][683]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.10.26-22.13.36:909][683]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.10.26-22.13.36:929][683]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.10.26-22.13.36:929][683]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.36:930][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.13.36:940][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.26-22.13.36:940][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.10.26-22.13.36:947][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-22.13.37:003][683]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.13.37:011][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.26-22.13.37:059][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.10.26-22.13.37:227][683]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-22.13.37:227][683]LogContentValidation: Display: Validating Blueprint /Game/BluprintsH/Bomber_BP1.Bomber_BP1
+[2020.10.26-22.13.37:227][683]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.10.26-22.13.37:246][684]Cmd: QUIT_EDITOR
+[2020.10.26-22.13.37:246][684]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.26-22.13.37:289][684]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.26-22.13.37:298][684]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.10.26-22.13.37:752][684]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.26-22.13.37:787][684]LogExit: Preparing to exit.
+[2020.10.26-22.13.38:893][684]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.10.26-22.13.39:389][684]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:392][684]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:395][684]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:397][684]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:399][684]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:430][684]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:432][684]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:435][684]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:438][684]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:441][684]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:444][684]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.39:778][684]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.26-22.13.40:147][684]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.26-22.13.40:147][684]LogExit: Editor shut down
+[2020.10.26-22.13.40:149][684]LogExit: Transaction tracking system shut down

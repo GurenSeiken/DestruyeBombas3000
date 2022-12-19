@@ -1,0 +1,9 @@
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Development\Bomberman0\Definitions.Bomberman0.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+M:\Proyectos\Bomberman0\Source\Bomberman0/Bomberman0GameModeBase.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Inc\Bomberman0\Bomberman0GameModeBase.generated.h

@@ -1,0 +1,5 @@
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Development\Bomberman0\Definitions.Bomberman0.h
+M:\Proyectos\Bomberman0\Source\Bomberman0\Muro\MuroDest.h
+M:\Proyectos\Bomberman0\Source\Bomberman0\Public/Ch/Healt.h
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Inc\Bomberman0\Healt.generated.h
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Inc\Bomberman0\MuroDest.generated.h

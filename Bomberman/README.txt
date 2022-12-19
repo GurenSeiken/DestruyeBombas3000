@@ -1,0 +1,3 @@
+La carpeta del proyecto es Bomberman0, al pasarla al motor Unreal Engine podra ver, y editar el proyecto. la versión utilizada del engine es la 4.24.1(se puede usar cualquier versión de unreal 4.24)
+Para editar codigo del proyecto es necesario usar visual studio comunity(incluido al instalar unreal engine)
+Para ejecutar el juego se descarga la carpeta juego empaquetado y se ejecuta el ejecutable Bomberman0.exe

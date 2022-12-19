@@ -1,0 +1,15 @@
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Development\Bomberman0\Definitions.Bomberman0.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+M:\Proyectos\Bomberman0\Source\Bomberman0/bomb/Bomb.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+M:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+M:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4Editor\Inc\Bomberman0\Bomb.generated.h

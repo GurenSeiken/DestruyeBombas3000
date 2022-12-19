@@ -1,0 +1,3 @@
+M:\Proyectos\Bomberman0\Intermediate\Build\Win64\UE4\Development\Bomberman0\Definitions.Bomberman0.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+M:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
